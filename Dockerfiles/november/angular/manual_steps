@@ -1,0 +1,8 @@
+git clone https://github.com/gothinkster/angular-realworld-example-app.git
+cd angular-realworld-example-app
+npm install -g @angular/cli
+npm install
+# To start the application http://localhost:4200
+ng serve
+
+// follow the above steps to install angular app and run it in the server. 
