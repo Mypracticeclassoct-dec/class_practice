@@ -1,0 +1,7 @@
+apiVersion: apps/v1
+Kind: ReplicaSet
+metadata:
+  name: jenkins
+
+
+## complete the task given in the class december 4th morning
